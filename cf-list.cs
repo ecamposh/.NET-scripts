@@ -1,3 +1,4 @@
+// Compile with C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe /r:Newtonsoft.Json.dll /r:System.Net.Http.dll /r:System.Runtime.Serialization.dll ListRackspaceContainers.cs
 using System;
 using System.Net.Http;
 using System.Net.Http.Headers;
